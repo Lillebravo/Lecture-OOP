@@ -7,7 +7,7 @@ OOP stands of **Object Oriented Programmbing**
 
 OOP revolves around creating structures called objects _( not the kind of objects we have been creating so far, but similar )_. These objects are called instances of classes and a class is "blueprint" that defines the properties and methods of each object.
 
-The OOP strcture is very common in the it world. There are programming languages that are completely OOP-depenedant, like Java or C#. In those languages everything needs to be a class. So no code outside classes.
+The OOP structure is very common in the it world. There are programming languages that are completely OOP-depenedant, like Java or C#. In those languages everything needs to be a class. So no code outside classes.
 
 In JS, that's is not the case, and we can create code wherever we would like to. but in order to make developers of say C# happy, we can create and use classes in JS as well.
 
