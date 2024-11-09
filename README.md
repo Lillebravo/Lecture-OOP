@@ -3,7 +3,7 @@ Lesson on 2024-11-07 on OOP
 
 # 2024-11-07 OOP
 
-OOP stands of **Object Oriented Programmbing**
+OOP stands for **Object Oriented Programmbing**
 
 OOP revolves around creating structures called objects _( not the kind of objects we have been creating so far, but similar )_. These objects are called instances of classes and a class is "blueprint" that defines the properties and methods of each object.
 
